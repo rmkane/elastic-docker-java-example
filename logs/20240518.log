@@ -1,0 +1,73 @@
+14:37:18.870 [main] INFO  org.example.App - Indexed with version: 1
+14:37:18.873 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+14:37:18.873 [main] INFO  org.example.App - ASSERT: person =?= person => true
+14:37:18.873 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:17:00.887 [main] INFO  org.example.App - Indexed with version: 1
+15:17:00.890 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:17:00.890 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:17:00.890 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:17:01.105 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
+15:20:53.605 [main] INFO  org.example.App - Indexed with version: 1
+15:20:53.608 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:20:53.608 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:20:53.608 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:20:53.723 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
+15:22:08.636 [main] INFO  org.example.App - Indexed with version: 2
+15:22:08.640 [main] INFO  org.example.App - ASSERT: Created =?= Updated => false
+15:22:08.640 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:22:08.640 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:22:08.787 [main] INFO  org.example.App - ASSERT: 1 =?= 2 => false
+15:22:08.787 [main] INFO  org.example.App - ASSERT: John Doe =?= John Doe => true
+15:22:43.313 [main] INFO  org.example.App - Indexed with version: 1
+15:22:43.316 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:22:43.316 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:22:43.316 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:22:43.431 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
+15:26:04.117 [main] INFO  org.example.App - Indexed with version: 1
+15:26:04.120 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:26:04.120 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:26:04.120 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:26:04.137 [main] INFO  org.example.App - Indexed with version: 1
+15:26:04.137 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:26:04.137 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:26:04.137 [main] INFO  org.example.App - ASSERT: Mark Doe =?= John Doe => false
+15:26:04.230 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
+15:26:44.142 [main] INFO  org.example.App - Indexed with version: 1
+15:26:44.145 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:26:44.145 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:26:44.145 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:26:44.162 [main] INFO  org.example.App - Indexed with version: 1
+15:26:44.162 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:26:44.163 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:26:44.163 [main] INFO  org.example.App - ASSERT: John Doe =?= John Doe => true
+15:26:44.265 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
+15:27:44.606 [main] INFO  org.example.App - Indexed with version: 1
+15:27:44.609 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:27:44.609 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:27:44.609 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:27:44.625 [main] INFO  org.example.App - Indexed with version: 1
+15:27:44.625 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:27:44.625 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:27:44.625 [main] INFO  org.example.App - ASSERT: John Doe =?= John Doe => true
+15:27:44.712 [main] INFO  org.example.App - Found []
+15:27:44.712 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
+15:30:04.538 [main] INFO  org.example.App - Indexed with version: 1
+15:30:04.541 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:30:04.541 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:30:04.541 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:30:04.555 [main] INFO  org.example.App - Indexed with version: 1
+15:30:04.555 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:30:04.556 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:30:04.556 [main] INFO  org.example.App - ASSERT: John Doe =?= John Doe => true
+15:30:04.643 [main] INFO  org.example.App - Found []
+15:30:04.643 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
+15:34:39.862 [main] INFO  org.example.App - Indexed with version: 1
+15:34:39.865 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:34:39.866 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:34:39.866 [main] INFO  org.example.App - ASSERT: Mark Doe =?= Mark Doe => true
+15:34:39.881 [main] INFO  org.example.App - Indexed with version: 1
+15:34:39.881 [main] INFO  org.example.App - ASSERT: Created =?= Created => true
+15:34:39.881 [main] INFO  org.example.App - ASSERT: person =?= person => true
+15:34:39.881 [main] INFO  org.example.App - ASSERT: John Doe =?= John Doe => true
+15:34:39.989 [main] INFO  org.example.App - Found []
+15:34:39.989 [main] INFO  org.example.App - ASSERT: 1 =?= 0 => false
